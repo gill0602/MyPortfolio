@@ -105,36 +105,34 @@ export const navItems = [
   ];
   
   export const testimonials = [
-    {
+    { id:1,
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Collaborating with Sidharth on DSA and web development projects has been incredibly enriching, thanks to his deep expertise and innovative problem-solving skills. His leadership in hackathons and seamless integration of technologies consistently resulted in outstanding outcomes.",
+      name: "Gourav Mandal",
+      title: "Founder of GorLabs.com",
     },
     {
+      id:2,
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Working on machine learning and AI projects with Sidharth has been exceptional. His deep understanding of algorithms and data science consistently led to innovative solutions. His expertise and passion for AI drove the success of our projects, making the experience both educational and enjoyable.",
+      name: "Naveen Solanki",
+      title: "ML & DevOps Intern @ BhaviAI Technologies",
     },
     {
+      id:3,
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Sidharth is an exceptional developer with a strong command of Web Development and Machine Learning. His innovative solutions and proficiency in these technologies make him a valuable asset in the tech community. His ability to seamlessly integrate modern web frameworks with native Android capabilities showcases his versatility and commitment to delivering top-notch applications.",
+      name: "Vishal Tomar",
+      title: "React & NodeJs Developer",
     },
     {
+      id:4 ,
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I worked on various projects with Sidharth and his problem solving abilities and development capabilities are really helpful in working on complex problems as well as projects.His innovative approach often helps in breaking down problems into understandable sections.",
+      name: "Sagar Yadav",
+      title: "Web & Software  Developer",
     },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
+   
   ];
   
   export const companies = [
@@ -205,13 +203,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/gill0602"
     },
     {
       id: 2,
       img: "/twit.svg",
+      link:"https://x.com/sidhxrthgill",
     },
     {
       id: 3,
       img: "/link.svg",
+      link:"https://www.linkedin.com/in/sidharth-gill-90b82b224/",
     },
   ];
